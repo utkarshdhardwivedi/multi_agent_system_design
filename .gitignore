@@ -1,0 +1,9 @@
+# Ignore sensitive environment variables
+.env
+*.env
+*.env.*
+
+# Ignore Python virtual environments (if applicable)
+env/
+venv/
+.venv/
